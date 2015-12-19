@@ -1,5 +1,5 @@
 FROM centos:latest
-MAINTAINER Jonathan Day-Reiner <jdreiner@k2digital.com>
+MAINTAINER dayreiner
 
 # Tomcat and Java Vars
 ENV JDK_MAJOR_VERSION=7u80 \
